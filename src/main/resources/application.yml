@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: practice_1
+app:
+  message: "Hello from default profile"
+  environment: "default"
